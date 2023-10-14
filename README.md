@@ -1,2 +1,4 @@
 # Capstone-3
-Theater review sentiment analysis and ticket sales/average gross forecasting
+Sentiment analysis of theatrical productions
+
+Data scraped from Playbill and New York Theatre Guide
